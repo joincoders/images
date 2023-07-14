@@ -1,5 +1,6 @@
-{
-	"name" : "Admin",
-	"age" : 36,
-	"rights" : [ "admin", "editor", "contributor" ]
+ {
+"name":"Bill Gates",
+"street":"Fifth Avenue New York 666",
+"age":56,
+"phone":"555 1234567"
 }
